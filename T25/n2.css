@@ -1,0 +1,87 @@
+﻿main{
+	background:url("divback.png") #e8f0e5;
+	background-size: 50%;
+	background-repeat: no-repeat;
+	width: 98%;
+	background-position: 95%;
+	height: 400px;	
+}
+article{
+	background:linear-gradient(to right, gray, black);
+	height: 400px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 24px;
+}
+h1{
+	text-decoration: none;
+	color: black;
+	font-size: 50px;
+	
+}
+.active{
+	border-bottom: 2px solid black;
+	
+}
+nav>a:hover{
+	
+	border-bottom: 2px solid black;
+}
+.logo{
+	margin: 0px 0px 80px;
+	
+}
+.text{
+	width: 50%;
+	float: left;
+	height: 100%;
+}
+p{
+	color: white;
+	margin-right: 200px;
+}
+h2{
+	color: white;
+	margin-right: 200px;
+	
+}
+.button{
+	color: white;
+	background-color: black;
+	margin-top: 50px;
+	border-radius: 10px;
+	padding: 10px;
+}
+.btn{
+	margin-top: 50px;
+}
+.button:hover{
+	box-shadow: 0 0 20px black;
+	
+}
+
+	#t{
+		color: black;
+	}
+
+
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.one{
+	width: 40%;
+	float: left;
+	height: 100%
+}
+.two{
+	width: 60%;
+	float: left;
+	height: 100%
+}
+h3{
+	font-size: 40px;
+}

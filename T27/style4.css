@@ -1,0 +1,32 @@
+﻿#l:hover{
+	color: white;
+	font-size: 30px;
+	text-decoration: none;
+	box-shadow: 2px 2px 5px 3px green;
+	
+}
+body{
+	background-image: url(2.png);
+	color: white;
+	background-size: 80%;
+background-repeat: no-repeat;}
+	
+	
+
+h1{
+	
+	border: 5px solid red;
+	background: red;
+}
+h2{
+	
+	border: 5px solid blue;
+	background: yellow;
+}
+#l{
+	border: 5px solid red;
+	background: red;
+	font-size: 30px;
+	text-decoration: none;
+	
+}

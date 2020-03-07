@@ -1,0 +1,28 @@
+﻿#i{
+	color: red;
+	font-size: 30px;
+	text-decoration: none;
+	margin-top: 1000px;
+	
+}
+#l:hover{
+	color: white;
+	font-size: 30px;
+	text-decoration: none;
+	box-shadow: 2px 2px 5px 3px green;
+	background: red;
+	
+}
+body{background-image: url(3.jfif);
+background-size: 80%;
+background-repeat: no-repeat;}
+h1{
+	
+	border: 5px solid red;
+	background: red;
+}
+h2{
+	
+	border: 5px solid blue;
+	background: blue;
+}
